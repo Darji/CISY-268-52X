@@ -45,7 +45,7 @@ h1 { color: orange;
     border: 3px ridge #330000;
     border-radius: 15px;
     box-shadow: 5px 5px 5px #828282;
-    background-image: repeating-linear-gradient(to bottom, #ffffff, #00ff00);
+    background-image: repeating-linear-gradient(to bottom, #ffffff, #000000);
 }
 
 
@@ -80,71 +80,4 @@ figcaption {
 
 
 
-ul {
-    
-    padding: 20px 10px;
-    list-style-type: none;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  body{
-            background: black; 
-        }        
-        
-        h1{
-            color: white;
-        }    
-        
-    fieldset{
-        width: 60%;
-        background-color: lightgray;
-        border: 1px solid lightblue;
-        padding: 20px, 10px, 10px, 10px;
-        
-    }
-    
-    form { background-color:#eaeaea;
- font-family: Arial, sans-serif;
- padding: 10px; 
-        }
-    legend{
-        
-        font-family: georgia, sans-serif;
-        font-size: 1.2em;
-    }
-    
-   label { float: left;
- width: 100px;
- clear: left;
- text-align: right;
- padding-right: 10px;
- margin-top: 10px;
-        }
-    
-   input, textarea { margin-top: 10px;
- display: block; }
-    
-        
-        
-        #mySubmit { margin-left: 110px; }
-    
-    input [type="submit"], input [type="reset"]{display: inline}
     
