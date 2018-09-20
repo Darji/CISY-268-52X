@@ -1,6 +1,6 @@
 
 
-caption { font-family: Verdana, sans-serif;
+caption { font-family: sans-serif;
  font-weight: bold;
  font-size: 1.2em;
  padding-bottom: 0.5em; 
@@ -23,27 +23,18 @@ main{
 
 body { background-color: black;
       color: white;
-	  font-family: Verdana, Arial, sans-serif;
+	  font-family: sans-serif;
         font-weight:bold; 
 }
 
-header { background-color: skyblue;
-         color: #FFFFFF;
-		 font-family: Georgia, serif; 
-}
 
 h1 { color: orange;
-    background-color: aqua;
+   
     font-family: cursive;
     font-size: 3em;
     text-shadow: 10px 10px 10px #666;
     margin: auto;
-    border-width: thick;
-    border-color: coral;
-    border-style: double;
     padding: 1em; 
-    border: 3px ridge #330000;
-    border-radius: 15px;
     box-shadow: 5px 5px 5px #828282;
     background-image: repeating-linear-gradient(to bottom, #ffffff, #000000);
 }
